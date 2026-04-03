@@ -1,3 +1,15 @@
+<div align="center">
+
+# ⏳ TimeEcho Backend
+
+FastAPI AI image-to-video pipeline — living memory app backend.
+
+![Python](https://img.shields.io/badge/python-3.10+-blue?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi) ![Last Commit](https://img.shields.io/github/last-commit/ehansih/timeecho-backend)
+
+</div>
+
+---
+
 # TimeEcho Backend
 
 FastAPI backend for TimeEcho — an AI-powered time-aware living memory platform.
